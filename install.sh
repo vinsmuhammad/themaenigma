@@ -12,8 +12,8 @@ display_welcome() {
   echo -e ""
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "${BLUE}[+]                                                 [+]${NC}"
-  echo -e "${BLUE}[+]                AUTO INSTALLER THEMA             [+]${NC}"
-  echo -e "${BLUE}[+]                  © LINECLOUD                [+]${NC}"
+  echo -e "${BLUE}[+]            INSTALLER MENU BY VERLANGID             [+]${NC}"
+  echo -e "${BLUE}[+]            Credit YouTube : verlangid               [+]${NC}"
   echo -e "${BLUE}[+]                                                 [+]${NC}"
   echo -e "${RED}[+] =============================================== [+]${NC}"
   echo -e ""
@@ -21,9 +21,9 @@ display_welcome() {
   echo -e "Dilarang Keras Share Bebas."
   echo -e ""
   echo -e "𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 :"
-  echo -e "@LineXCloud"
+  echo -e "@verlangid11"
   echo -e "𝗖𝗥𝗘𝗗𝗜𝗧𝗦 :"
-  echo -e "@LINECLOUD"
+  echo -e "WhatsApp : 6287821239407"
   sleep 4
   clear
 }
@@ -56,20 +56,20 @@ install_jq() {
 check_token() {
   echo -e "                                                       "
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
-  echo -e "${BLUE}[+]               LICENSY RAFATHAR CODE            [+]${NC}"
+  echo -e "${BLUE}[+]               LICENSY BY VERLANGSUPPORT            [+]${NC}"
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "                                                       "
   echo -e "${YELLOW}MASUKAN AKSES TOKEN :${NC}"
   read -r USER_TOKEN
 
-  if [ "$USER_TOKEN" = "linebaik" ]; then
+  if [ "$USER_TOKEN" = "verlangganteng" ]; then
     echo -e "${GREEN}AKSES BERHASIL${NC}}"
   else
-    echo -e "${GREEN}Token Salah! Beli Kode Token Di LINECLOUD${NC}"
-    echo -e "${YELLOW}TELEGRAM : @linecloud${NC}"
-    echo -e "${YELLOW}WHATSAPP : +6283879152564${NC}"
-    echo -e "${YELLOW}HARGA TOKEN : 25K FREE UPDATE JIKA ADA TOKEN BARU${NC}"
-    echo -e "${YELLOW}© LINECLOUD${NC}"
+    echo -e "${GREEN}Token Salah! ,Kamu pasti penyusup 😹${NC}"
+    echo -e "${YELLOW}TELEGRAM : @verlangid11${NC}"
+    echo -e "${YELLOW}WHATSAPP : +6287821239407${NC}"
+    echo -e "${YELLOW}GROUP HOSTING MURAH : https://vcloudxofficial.xyz/group${NC}"
+    echo -e "${YELLOW}©VCLOUDXOFFICIAL${NC}"
     exit 1
   fi
   clear
@@ -92,15 +92,15 @@ install_theme() {
     read -r SELECT_THEME
     case "$SELECT_THEME" in
       1)
-        THEME_URL=$(echo -e "https://github.com/LineAja19/Panel-Installer/raw/main/stellar.zip")        
+        THEME_URL=$(echo -e "https://github.com/Verlangid11/installermenuverlang/raw/main/stellar.zip")        
         break
         ;;
       2)
-        THEME_URL=$(echo -e "https://github.com/LineAja19/Panel-Installer/raw/main/billing.zip")
+        THEME_URL=$(echo -e "https://github.com/Verlangid11/installermenuverlang/raw/main/billing.zip")
         break
         ;;
       3)
-        THEME_URL=$(echo -e "https://github.com/LineAja19/Panel-Installer/raw/main/enigma.zip")
+        THEME_URL=$(echo -e "https://github.com/Verlangid11/installermenuverlang/raw/main/enigma.zip")
         break
         ;; 
       x)
@@ -245,7 +245,7 @@ echo -e "${BLUE}[+] =============================================== [+]${NC}"
 echo -e "                                                                   "
 
 # Unduh file tema
-wget -O /root/stellar.zip https://github.com/LineAja19/Panel-Installer/raw/main/stellar.zip
+wget -O /root/stellar.zip https://github.com/Verlangid11/installermenuverlang/raw/main/stellar.zip
 
 
 # Ekstrak file tema
@@ -448,22 +448,22 @@ check_token
 while true; do
   clear
   echo -e "                                                                     "
-  echo -e "${RED}        _,gggggggggg.                                     ${NC}"
+  echo -e "${BLUE}        _,gggggggggg.                                     ${NC}"
   echo -e "${RED}    ,ggggggggggggggggg.                                   ${NC}"
-  echo -e "${RED}  ,ggggg        gggggggg.                                 ${NC}"
+  echo -e "${GREEN}  ,ggggg        gggggggg.                                 ${NC}"
   echo -e "${RED} ,ggg'               'ggg.                                ${NC}"
-  echo -e "${RED}',gg       ,ggg.      'ggg:                               ${NC}"
-  echo -e "${RED}'ggg      ,gg'''  .    ggg       Auto Installer LINECLOUD   ${NC}"
+  echo -e "${BLUE}',gg       ,ggg.      'ggg:                               ${NC}"
+  echo -e "${BLUE}'ggg      ,gg'''  .    ggg       Installer menu by verlangid   ${NC}"
   echo -e "${RED}gggg      gg     ,     ggg      ------------------------  ${NC}"
-  echo -e "${RED}ggg:     gg.     -   ,ggg       • Telegram : LineXCloud      ${NC}"
-  echo -e "${RED} ggg:     ggg._    _,ggg        • Creadit  : LINECLOUD  ${NC}"
-  echo -e "${RED} ggg.    '.'''ggggggp           • Support by LINECLOUD  ${NC}"
+  echo -e "${BLUE}ggg:     gg.     -   ,ggg       • Telegram : @verlangid11      ${NC}"
+  echo -e "${RED} ggg:     ggg._    _,ggg        • Creadit  : Yt : verlangid  ${NC}"
+  echo -e "${GREEN} ggg.    '.'''ggggggp           • Support by vcloudxhostingers  ${NC}"
   echo -e "${RED}  'ggg    '-.__                                           ${NC}"
   echo -e "${RED}    ggg                                                   ${NC}"
-  echo -e "${RED}      ggg                                                 ${NC}"
+  echo -e "${BLUE}      ggg                                                 ${NC}"
   echo -e "${RED}        ggg.                                              ${NC}"
   echo -e "${RED}          ggg.                                            ${NC}"
-  echo -e "${RED}             b.                                           ${NC}"
+  echo -e "${BLUE}             b.                                           ${NC}"
   echo -e "                                                                     "
   echo -e "BERIKUT LIST INSTALL :"
   echo "1. Install theme"
