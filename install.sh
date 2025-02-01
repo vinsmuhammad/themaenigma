@@ -21,9 +21,9 @@ display_welcome() {
   echo -e "Dilarang Keras Share Bebas."
   echo -e ""
   echo -e "𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 :"
-  echo -e "@verlangid11"
+  echo -e "@dastin_z"
   echo -e "𝗖𝗥𝗘𝗗𝗜𝗧𝗦 :"
-  echo -e "WhatsApp : 6287821239407"
+  echo -e "WhatsApp : 6288216399193"
   sleep 4
   clear
 }
@@ -56,20 +56,20 @@ install_jq() {
 check_token() {
   echo -e "                                                       "
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
-  echo -e "${BLUE}[+]               LICENSY BY VERLANGSUPPORT            [+]${NC}"
+  echo -e "${BLUE}[+]               LICENSY BY DASBOTZ                [+]${NC}"
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "                                                       "
   echo -e "${YELLOW}MASUKAN AKSES TOKEN :${NC}"
   read -r USER_TOKEN
 
-  if [ "$USER_TOKEN" = "verlangganteng" ]; then
+  if [ "$USER_TOKEN" = "dasbotz76" ]; then
     echo -e "${GREEN}AKSES BERHASIL${NC}}"
   else
     echo -e "${GREEN}Token Salah! ,Kamu pasti penyusup 😹${NC}"
-    echo -e "${YELLOW}TELEGRAM : @verlangid11${NC}"
-    echo -e "${YELLOW}WHATSAPP : +6287821239407${NC}"
-    echo -e "${YELLOW}GROUP HOSTING MURAH : https://vcloudxofficial.xyz/group${NC}"
-    echo -e "${YELLOW}©VCLOUDXOFFICIAL${NC}"
+    echo -e "${YELLOW}TELEGRAM : @dastin_z${NC}"
+    echo -e "${YELLOW}WHATSAPP : +6288216399193{NC}"
+    echo -e "${YELLOW}GROUP WHATSAPP : https://chat.whatsapp.com/I3vSxgsJWTS2MOuu5qHn7A${NC}"
+    echo -e "${YELLOW}©DASTINOFFICIAL${NC}"
     exit 1
   fi
   clear
