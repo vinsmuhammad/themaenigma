@@ -67,7 +67,7 @@ check_token() {
   else
     echo -e "${GREEN}Token Salah! ,Kamu pasti penyusup 😹${NC}"
     echo -e "${YELLOW}TELEGRAM : @dastin_z${NC}"
-    echo -e "${YELLOW}WHATSAPP : +6288216399193{NC}"
+    echo -e "${YELLOW}WHATSAPP : +6288216399193${NC}"
     echo -e "${YELLOW}GROUP WHATSAPP : https://chat.whatsapp.com/I3vSxgsJWTS2MOuu5qHn7A${NC}"
     echo -e "${YELLOW}©DASTINOFFICIAL${NC}"
     exit 1
@@ -226,7 +226,7 @@ uninstall_theme() {
   echo -e "${BLUE}[+]                    DELETE THEME                 [+]${NC}"
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "                                                       "
-  bash <(curl https://raw.githubusercontent.com/VallzHost/installer-theme/main/repair.sh)
+  bash <(curl https://raw.githubusercontent.com/vinsmuhammad/themaenigma/main/repair.sh)
   echo -e "                                                       "
   echo -e "${GREEN}[+] =============================================== [+]${NC}"
   echo -e "${GREEN}[+]                 DELETE THEME SUKSES             [+]${NC}"
@@ -245,7 +245,7 @@ echo -e "${BLUE}[+] =============================================== [+]${NC}"
 echo -e "                                                                   "
 
 # Unduh file tema
-wget -O /root/stellar.zip https://github.com/Verlangid11/installermenuverlang/raw/main/stellar.zip
+wget -O /root/stellar.zip https://github.com/vinsmuhammad/themaenigma/raw/main/stellar.zip
 
 
 # Ekstrak file tema
@@ -453,11 +453,11 @@ while true; do
   echo -e "${GREEN}  ,ggggg        gggggggg.                                 ${NC}"
   echo -e "${RED} ,ggg'               'ggg.                                ${NC}"
   echo -e "${BLUE}',gg       ,ggg.      'ggg:                               ${NC}"
-  echo -e "${BLUE}'ggg      ,gg'''  .    ggg       Installer menu by verlangid   ${NC}"
+  echo -e "${BLUE}'ggg      ,gg'''  .    ggg       Installer menu by dastin   ${NC}"
   echo -e "${RED}gggg      gg     ,     ggg      ------------------------  ${NC}"
-  echo -e "${BLUE}ggg:     gg.     -   ,ggg       • Telegram : @verlangid11      ${NC}"
+  echo -e "${BLUE}ggg:     gg.     -   ,ggg       • Telegram : @dastin_z      ${NC}"
   echo -e "${RED} ggg:     ggg._    _,ggg        • Creadit  : Yt : verlangid  ${NC}"
-  echo -e "${GREEN} ggg.    '.'''ggggggp           • Support by vcloudxhostingers  ${NC}"
+  echo -e "${GREEN} ggg.    '.'''ggggggp           • Support by dasbotz  ${NC}"
   echo -e "${RED}  'ggg    '-.__                                           ${NC}"
   echo -e "${RED}    ggg                                                   ${NC}"
   echo -e "${BLUE}      ggg                                                 ${NC}"
