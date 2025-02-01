@@ -10,11 +10,11 @@ NC='\033[0m'
 # Display welcome message
 display_welcome() {
   echo -e ""
-  echo -e "${BLUE}[+] =============================================== [+]${NC}"
-  echo -e "${BLUE}[+]                                                 [+]${NC}"
-  echo -e "${BLUE}[+]            INSTALLER MENU BY VERLANGID             [+]${NC}"
-  echo -e "${BLUE}[+]            Credit YouTube : verlangid               [+]${NC}"
-  echo -e "${BLUE}[+]                                                 [+]${NC}"
+  echo -e "${BLUE}[+] ============================================== [+]${NC}"
+  echo -e "${BLUE}[+]                                                [+]${NC}"
+  echo -e "${BLUE}[+]            INSTALLER MENU BY DASTIN            [+]${NC}"
+  echo -e "${BLUE}[+]            Credit YouTube : DASTIN             [+]${NC}"
+  echo -e "${BLUE}[+]                                                [+]${NC}"
   echo -e "${RED}[+] =============================================== [+]${NC}"
   echo -e ""
   echo -e "script ini di buat untuk mempermudah penginstalasian thema pterodactyle,"
